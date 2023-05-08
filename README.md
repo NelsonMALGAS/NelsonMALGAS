@@ -1,4 +1,4 @@
- <strong>:hand:Hi there!!!</strong>,
+ <h1>:hand:Hi there!!!</h1>,
  
  welcome to my GitHub profile! My name is Nelson Zongezile Malgas, and I'm currently a software engineering student at CodeSpace Academy.
 
