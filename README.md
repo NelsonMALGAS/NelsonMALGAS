@@ -1,8 +1,8 @@
  <h1>:hand:Hi there!!!</h1>
  
- Welcome to my GitHub profile! My name is Nelson Zongezile Malgas, and I'm currently a software engineering student at CodeSpace Academy.
+ :rocket:Welcome to my GitHub profile! My name is Nelson Zongezile Malgas, and I'm currently a software engineering student at CodeSpace Academy.
 
-My passion for coding and software development has led me to pursue this exciting career path, and I'm thrilled to be learning and growing every day.
+🥰My passion for coding and software development has led me to pursue this exciting career path, and I'm thrilled to be learning and growing every day.
 So far, I've gained experience in HTML, CSS, and JavaScript, and I'm eager to delve into new technologies like GraphQL, Node.js, Nuxt.js, Git, and Netlify.
 I believe that keeping up with the latest tools and trends in software development is essential for staying competitive and producing high-quality work.
 
