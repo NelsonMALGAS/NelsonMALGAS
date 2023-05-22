@@ -23,6 +23,8 @@ I'm excited about the future of this field and the many possibilities it holds, 
 
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://iconscout.com/icon/html5-19)
 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white&width=50&height=50)](https://iconscout.com/icon/javascript-1)
+
 
 
 
