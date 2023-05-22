@@ -22,6 +22,8 @@ I'm excited about the future of this field and the many possibilities it holds, 
 
 [![Nelson Malgas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonMALGAS)](https://github.com/anuraghazra/github-readme-stats)
 
+![Nelson Malgas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical)
+
 - [BOOK-CONNECT-PROJECT](https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19)
 -  [INTRO TO WEB PROJECT](https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9)
 
