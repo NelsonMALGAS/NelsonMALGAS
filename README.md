@@ -20,8 +20,6 @@ I'm excited about the future of this field and the many possibilities it holds, 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://iconscout.com/icon/javascript-1)
 
 
-[![Nelson Malgas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonMALGAS)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Nelson Malgas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical)
 
 - [BOOK-CONNECT-PROJECT](https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19)
