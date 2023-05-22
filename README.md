@@ -13,7 +13,8 @@ I'm always looking for opportunities to collaborate with others and learn from t
 I'm excited about the future of this field and the many possibilities it holds, and I can't wait to see where my career takes me.
 
 💙Thank you for taking the time to learn more about me, and I look forward to connecting with you on GitHub!
-![JavaScript](https://fontawesome.com/icons/js?f=brands&s=solid)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://iconscout.com/icon/javascript-1)
+
 
 
 
