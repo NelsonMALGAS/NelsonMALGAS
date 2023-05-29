@@ -1,4 +1,4 @@
- <h1>:hand:Hi there!!!</h1>
+ <h1 style =color="red">:hand:Hi there!!!</h1>
  
  :rocket:Welcome to my GitHub profile! My name is <strong>Nelson Zongezile Malgas</strong>, and I'm currently a software engineering student at [CodeSpace Academy](https://www.google.com/search?gs_ssp=eJwFwTEOQEAQBdBoJQo30KjNJrNiHcEl5O_8oRKEAqf3Xll1axcCv_vUWSjF2MoTaBaZhqii6kyjPD3E86KJiEBGnmrb6dcB8wYG-vb-GkkW4w&q=codespace+academy&rlz=1C1GCEB_enZA1027ZA1027&oq=code&aqs=chrome.1.69i57j46i39i175i199i650j0i67i131i433i650j69i61l3j69i60l2.4123j0j7&sourceid=chrome&ie=UTF-8)
 
@@ -14,7 +14,7 @@ I'm excited about the future of this field and the many possibilities it holds, 
 
 💙Thank you for taking the time to learn more about me, and I look forward to connecting with you on GitHub!
 
-Programming Skills :
+🥰Programming Skills :
 
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://iconscout.com/icon/html5-19)
 [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://iconscout.com/icon/css-38)
@@ -24,7 +24,7 @@ Programming Skills :
 ![Nelson Malgas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical)
 
 
-My Pinned Projects :
+🫀My Pinned Projects :
 
 - [BOOK-CONNECT-PROJECT](https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19)
 -  [INTRO TO WEB PROJECT](https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9)
