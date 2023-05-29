@@ -1,4 +1,9 @@
- <h1 color="red">:hand:Hi there!!!</h1>
+ <h1>:hand:Hi there!!!</h1>
+ 
+ <span style="color: red;">
+  <h1>Hi There!!!</h1>
+</span>
+
  
  :rocket:Welcome to my GitHub profile! My name is <strong>Nelson Zongezile Malgas</strong>, and I'm currently a software engineering student at [CodeSpace Academy](https://www.google.com/search?gs_ssp=eJwFwTEOQEAQBdBoJQo30KjNJrNiHcEl5O_8oRKEAqf3Xll1axcCv_vUWSjF2MoTaBaZhqii6kyjPD3E86KJiEBGnmrb6dcB8wYG-vb-GkkW4w&q=codespace+academy&rlz=1C1GCEB_enZA1027ZA1027&oq=code&aqs=chrome.1.69i57j46i39i175i199i650j0i67i131i433i650j69i61l3j69i60l2.4123j0j7&sourceid=chrome&ie=UTF-8)
 
