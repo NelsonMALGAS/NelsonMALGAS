@@ -18,8 +18,8 @@ I'm excited about the future of this field and the many possibilities it holds, 
 🥰Programming Skills :
 
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://iconscout.com/icon/css-38)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://iconscout.com/icon/javascript-1)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
 
 
 ![Nelson Malgas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical)
