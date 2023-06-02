@@ -30,7 +30,7 @@ I'm excited about the future of this field and the many possibilities it holds, 
 - [BOOK-CONNECT-PROJECT](https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19)
 -  [INTRO TO WEB PROJECT](https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9)
 
-[MY_WEBSITE](https://nelsonmalgas-githubprofile.netlify.app/)
+
 
 
 
