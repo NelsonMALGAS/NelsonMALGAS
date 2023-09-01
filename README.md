@@ -4,7 +4,7 @@
  :rocket:Welcome to my GitHub profile! My name is <strong>Nelson Zongezile Malgas</strong>, and I'm currently a software engineering student at [CodeSpace Academy](https://www.google.com/search?gs_ssp=eJwFwTEOQEAQBdBoJQo30KjNJrNiHcEl5O_8oRKEAqf3Xll1axcCv_vUWSjF2MoTaBaZhqii6kyjPD3E86KJiEBGnmrb6dcB8wYG-vb-GkkW4w&q=codespace+academy&rlz=1C1GCEB_enZA1027ZA1027&oq=code&aqs=chrome.1.69i57j46i39i175i199i650j0i67i131i433i650j69i61l3j69i60l2.4123j0j7&sourceid=chrome&ie=UTF-8)
 
 🥰My passion for coding and software development has led me to pursue this exciting career path, and I'm thrilled to be learning and growing every day.
-So far, I've gained experience in HTML, CSS, and JavaScript, and I'm eager to delve into new technologies like GraphQL, Node.js, Nuxt.js, Git, and Netlify.
+So far, I've gained experience in HTML, CSS, and JavaScript, TypeScript, React , Bootstrap & Material UI. I'm eager to delve into new technologies like NextJS & NodeJS.
 I believe that keeping up with the latest tools and trends in software development is essential for staying competitive and producing high-quality work.
 
 📖As you browse my GitHub repositories, you'll see that I'm constantly working on new projects and refining my skills.
@@ -15,11 +15,15 @@ I'm excited about the future of this field and the many possibilities it holds, 
 
 💙Thank you for taking the time to learn more about me, and I look forward to connecting with you on GitHub!
 
-🥰Programming Skills :
+🥰Technical Skills :
 
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
+[![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)](https://react.dev/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+[![TypeScript](https://img.shields.io/badge/-Typescript-blue?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Material-UI](https://img.shields.io/badge/-Material-blue?style=flat&logo=mui&logoColor=white)](https://mui.com/)
 
 Link to my Potfolio Website : [My_Portfolio](https://nelsonmalgas-githubprofile.netlify.app/)
 
@@ -32,6 +36,7 @@ Link to my Potfolio Website : [My_Portfolio](https://nelsonmalgas-githubprofile.
 
 - [BOOK-CONNECT-PROJECT](https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19)
 -  [INTRO TO WEB PROJECT](https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9)
+-  [The Audio Lounge (React Project)](https://the-audio-lounge.netlify.app)
 
 
 
