@@ -65,15 +65,12 @@
 
 <p align="center">
   <a href="https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonMALGAS&repo=NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19&theme=dark" alt="BOOK-CONNECT-PROJECT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonMALGAS&repo=NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19&theme=dark" alt="BOOK-CONNECT-PROJECT" description>
   </a>
   <a href="https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonMALGAS&repo=NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9&theme=dark" alt="INTRO TO WEB PROJECT">
-   
   </a>
   <a href="https://the-audio-lounge.netlify.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonMALGAS&repo=the-audio-lounge&theme=dark" alt="The Audio Lounge (React Project)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonMALGAS&repo=NELZON872_BCL2302_GroupD3_Owen_NelsonZongezileMalgas_DWA_Final_Capstone&theme=dark" alt="The Audio Lounge (React Project)">
   </a>
 </p>
-
-
