@@ -15,7 +15,6 @@
 
 ---
 
-
 ### About Me
 
 👋 Hi there! I'm Nelson Zongezile Malgas, a passionate software engineering student at [CodeSpace Academy](https://www.codespace.co.za/). I'm driven by my love for coding and software development, and I'm on a journey of continuous learning and growth.
