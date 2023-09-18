@@ -1,52 +1,80 @@
- <h1>:hand:Hi there!!!</h1>
- 
- 
- :rocket:Welcome to my GitHub profile! My name is <strong>Nelson Zongezile Malgas</strong>, and I'm currently a software engineering student at [CodeSpace Academy](https://www.google.com/search?gs_ssp=eJwFwTEOQEAQBdBoJQo30KjNJrNiHcEl5O_8oRKEAqf3Xll1axcCv_vUWSjF2MoTaBaZhqii6kyjPD3E86KJiEBGnmrb6dcB8wYG-vb-GkkW4w&q=codespace+academy&rlz=1C1GCEB_enZA1027ZA1027&oq=code&aqs=chrome.1.69i57j46i39i175i199i650j0i67i131i433i650j69i61l3j69i60l2.4123j0j7&sourceid=chrome&ie=UTF-8)
+<h1 align="center">👋 Hi there! I'm Nelson Zongezile Malgas</h1>
 
-🥰My passion for coding and software development has led me to pursue this exciting career path, and I'm thrilled to be learning and growing every day.
-So far, I've gained experience in <strong> HTML, CSS, JavaScript, TypeScript, React, Bootstrap & Material UI.</strong> I'm eager to delve into new technologies like NextJS & NodeJS.
-I believe that keeping up with the latest tools and trends in software development is essential for staying competitive and producing high-quality work.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nelsonmalgas/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/NelsonMalgas_">
+    <img src="https://img.shields.io/twitter/follow/NelsonMalgas_?style=social" alt="Twitter Follow">
+  </a>
+</p>
 
-📖As you browse my GitHub repositories, you'll see that I'm constantly working on new projects and refining my skills.
-I'm always looking for opportunities to collaborate with others and learn from their expertise, so please feel free to reach out if you'd like to work together on something.
+<p align="center">🚀 Welcome to my GitHub profile! I'm a software engineering student at <a href="https://www.codespace.co.za/">CodeSpace Academy</a>, passionate about coding and software development.</p>
 
-📺When I'm not coding, you can find me exploring the great outdoors, playing video games, or reading up on the latest developments in technology and software engineering.
-I'm excited about the future of this field and the many possibilities it holds, and I can't wait to see where my career takes me.
+<p align="center">🌟 Here are some technologies I've worked with:</p>
 
-💙Thank you for taking the time to learn more about me, and I look forward to connecting with you on GitHub!
+<p align="center">
+  <strong>HTML</strong> | 
+  <strong>CSS</strong> | 
+  <strong>JavaScript</strong> | 
+  <strong>TypeScript</strong> | 
+  <strong>React</strong> | 
+  <strong>Bootstrap</strong> | 
+  <strong>Material UI</strong>
+</p>
 
-🥰Technical Skills :
+<p align="center">🌱 I'm eager to explore new technologies like Next.js and Node.js as I continue my journey in software development.</p>
 
-[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
-[![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)](https://react.dev/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-[![TypeScript](https://img.shields.io/badge/-Typescript-blue?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Material-UI](https://img.shields.io/badge/-Material-blue?style=flat&logo=mui&logoColor=white)](https://mui.com/)
+<p align="center">📘 As you explore my GitHub repositories, you'll find a collection of projects that showcase my skills and passion for coding. I'm always open to collaborations and learning from others, so feel free to reach out!</p>
 
+<p align="center">🌄 When I'm not coding, I enjoy the great outdoors, gaming, and staying up-to-date with the latest tech trends and developments.</p>
 
+<p align="center">💬 Thank you for taking the time to get to know me, and I look forward to connecting with you on GitHub!</p>
 
-![Nelson Malgas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical)
+---
 
+<p align="center"><strong>Technical Skills</strong></p>
 
-🫀My Pinned Projects :
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/HTML">
+    <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CSS">
+    <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript">
+    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  </a>
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">
+    <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  </a>
+  <a href="https://mui.com/">
+    <img src="https://img.shields.io/badge/-Material_UI-blue?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
+  </a>
+</p>
 
-- [BOOK-CONNECT-PROJECT](https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19)
--  [INTRO TO WEB PROJECT](https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9)
--  [The Audio Lounge (React Project)](https://the-audio-lounge.netlify.app)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical" alt="Nelson Malgas' GitHub Stats"></p>
 
+<h2 align="center">My Pinned Projects</h2>
 
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <a href="https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonMALGAS&repo=NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19&theme=dark" alt="BOOK-CONNECT-PROJECT">
+   <p>This project, titled "BOOK-CONNECT-PROJECT," is an interactive web application designed to connect book enthusiasts from around the world. It offers a platform for users to discover, discuss, and share their favorite books, fostering a vibrant community of readers. The project utilizes a range of technologies to provide features such as user authentication, book search, and user-generated content management.</p>
+  </a>
+  <a href="https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonMALGAS&repo=NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9&theme=dark" alt="INTRO TO WEB PROJECT">
+   
+  </a>
+  <a href="https://the-audio-lounge.netlify.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonMALGAS&repo=the-audio-lounge&theme=dark" alt="The Audio Lounge (React Project)">
+  </a>
+</p>
 
 
