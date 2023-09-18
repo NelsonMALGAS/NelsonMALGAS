@@ -25,8 +25,6 @@ I'm excited about the future of this field and the many possibilities it holds, 
 [![TypeScript](https://img.shields.io/badge/-Typescript-blue?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Material-UI](https://img.shields.io/badge/-Material-blue?style=flat&logo=mui&logoColor=white)](https://mui.com/)
 
-Link to my Potfolio Website : [My_Portfolio](https://nelsonmalgas-githubprofile.netlify.app/)
-
 
 
 ![Nelson Malgas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical)
