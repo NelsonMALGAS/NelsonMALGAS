@@ -66,7 +66,6 @@
 <p align="center">
   <a href="https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonMALGAS&repo=NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19&theme=dark" alt="BOOK-CONNECT-PROJECT">
-   <p>This project, titled "BOOK-CONNECT-PROJECT," is an interactive web application designed to connect book enthusiasts from around the world. It offers a platform for users to discover, discuss, and share their favorite books, fostering a vibrant community of readers. The project utilizes a range of technologies to provide features such as user authentication, book search, and user-generated content management.</p>
   </a>
   <a href="https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonMALGAS&repo=NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9&theme=dark" alt="INTRO TO WEB PROJECT">
