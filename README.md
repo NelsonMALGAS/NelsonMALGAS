@@ -36,26 +36,27 @@ In addition to my technical skills, I possess valuable soft skills that enhance 
 
 ### Projects
 
+
 **BOOK-CONNECT-PROJECT**
-- [Repository](https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19)
+- [Book Connect Repository](https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19)
 - Description: An interactive web application that connects book enthusiasts worldwide. Users can discover, discuss, and share their favorite books, complete with user authentication, book search, and content management features.
 
 **INTRO TO WEB PROJECT**
-- [Repository](https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9)
+- [Intro to Web Repository](https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9)
 - Description: A comprehensive web development project designed as an excellent learning resource for newcomers to web development. It covers HTML, CSS, JavaScript, and more, providing an immersive introduction to web development concepts.
 
 **The Audio Lounge (React Project)**
-- [Repository](https://the-audio-lounge.netlify.app)
+- [The Audio Lounge App](https://the-audio-lounge.netlify.app)
 - Description: "The Audio Lounge" is a dynamic React project for podcast enthusiasts. It offers audio playback,  allowing users to explore a vast library of podcasts and curate their podcast collections.
 
-#### Interests
+### Interests
 
 When I'm not coding, you can find me exploring the great outdoors, gaming, or staying up-to-date with the latest tech trends and developments. I'm excited about the future of technology and the endless possibilities it holds.
 
-#### GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical)
 
-#### Contact
+### Contact
 
 💬 Thank you for taking the time to get to know me. I'm always open to new opportunities and collaborations, so please feel free to connect with me on GitHub or through my social media profiles.
