@@ -2,10 +2,10 @@
 <h3 align="center">Entry-level Software Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nelsonmalgas/">
+  <a href="https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/NelsonMalgas_">
+  <a href="https://x.com/MalgasZakes1?t=hPsWgPHtf9vYTKCc6HDMRw&s=09">
     <img src="https://img.shields.io/twitter/follow/NelsonMalgas_?style=social" alt="Twitter Follow">
   </a>
   <a href="mailto:zmalgas69@gmail.com">
