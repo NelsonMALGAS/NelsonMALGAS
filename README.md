@@ -17,9 +17,8 @@
 
 ### About Me
 
-👋 Hi there! I'm Nelson Zongezile Malgas, a passionate software engineering student at [CodeSpace Academy](https://www.codespace.co.za/). I'm driven by my love for coding and software development, and I'm on a journey of continuous learning and growth.
-
-In addition to my technical skills, I possess valuable soft skills that enhance my ability to excel in the field of software development. I thrive in high-pressure situations, and I'm at my best when faced with challenging deadlines. My problem-solving abilities are a cornerstone of my work ethic, allowing me to dissect complex issues, identify solutions, and implement them effectively. These skills, combined with my passion for innovation, drive me to create high-quality software solutions and contribute meaningfully to any team or project I'm a part of.
+I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer. I love turning ideas into reality through code. Coding is my greatest passion, and I thrive on the creativity and innovation it offers. I believe that excellence in coding is achieved by meticulously crafting every aspect of a project for overall harmony.
+In the ever-evolving world of software engineering, I continually seek opportunities to expand my knowledge and skills to deliver top-notch solutions that make a meaningful impact.
 
 ### Technical Skills
 
