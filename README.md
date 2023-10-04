@@ -15,13 +15,18 @@
 I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer. I love turning ideas into reality through code. Coding is my greatest passion, and I thrive on the creativity and innovation it offers. I believe that excellence in coding is achieved by meticulously crafting every aspect of a project for overall harmony. In the ever-evolving world of software engineering, I continually seek opportunities to expand my knowledge and skills to deliver top-notch solutions that make a meaningful impact.
 
 ## Technical Skills
- <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30" height="30"/> HTML 5
- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="30" height="30"/> CSS 3
- <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"/> JavaScript
- <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="30" height="30"/> TypeScript
- <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30" height="30"/> React
- <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="30" height="30"/> Bootstrap
- <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" width="30" height="30"/> Material UI
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/-material-black?style=flat-square&logo=mui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+
+
 
 🌱 I'm enthusiastic about exploring cutting-edge technologies like Next.js and Node.js to enhance my skills and create innovative solutions.
 
