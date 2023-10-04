@@ -1,13 +1,13 @@
 <div align="center">
 
 # Nelson Zongezile Malgas
-### Entry-level Software Engineer
+## Entry-level Software Engineer
 
-[LinkedIn](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)
-[Twitter](https://x.com/MalgasZakes1?t=hPsWgPHtf9vYTKCc6HDMRw&s=09) ![Twitter Follow](https://img.shields.io/twitter/follow/NelsonMalgas_?style=social)
-Email: zmalgas69@gmail.com ![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MalgasZakes1)
+![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)
 </div>
+
 
 ---
 
