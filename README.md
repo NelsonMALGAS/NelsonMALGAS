@@ -44,12 +44,12 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer. I love turning id
 - [The Audio Lounge App](https://the-audio-lounge.netlify.app)
 - Description: "The Audio Lounge" is a dynamic React project for podcast enthusiasts. It offers audio playback, allowing users to explore a vast library of podcasts and curate their podcast collections.
 
-  **BLOG (NextJS)**
+**BLOG (NextJS)**
 - [Blog](https://my-blog-ten-sandy.vercel.app/)
 - Description: This is a simple web development blog created using React and Next.js. It features a homepage with a hero section and a list of featured blog posts. The blog is designed to showcase articles related to programming and web development.
 
 
-    **NextJS EVENTS APP**
+**NextJS EVENTS APP**
 - [Events App](https://next-app-rose-three.vercel.app/)
 - Description: This is a simple Next.js application that displays a list of events. It allows users to view upcoming events, event details, and more. This README will provide you with instructions on how to set up and run the application.
 
@@ -57,10 +57,18 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer. I love turning id
 When I'm not coding, you can find me exploring the great outdoors, gaming, or staying up-to-date with the latest tech trends and developments. I'm excited about the future of technology and the endless possibilities it holds.
 
 ## Education
-- **CodeSpace Academy 2022-2022**
-  - Programming fundamentals
-- **CodeSpace Academy 2023-2023**
-  - JavaScript Engineering
+
+### CodeSpace Academy
+- **JavaScript Engineering**
+  - 2023-2023
+
+- **Programming Fundamentals**
+  - 2022-2022
+
+### Bafokeng High School
+- **Matric**
+   - 2013
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical)
