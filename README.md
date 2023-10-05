@@ -22,9 +22,12 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer. I love turning id
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-material-black?style=flat-square&logo=mui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 
 
 
