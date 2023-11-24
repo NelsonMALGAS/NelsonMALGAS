@@ -29,6 +29,7 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer. I love turning id
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
+![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
 
 
