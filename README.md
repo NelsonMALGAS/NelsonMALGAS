@@ -10,8 +10,6 @@
 
 
 ---
-
-## About Me
 I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer. I love turning ideas into reality through code. Coding is my greatest passion, and I thrive on the creativity and innovation it offers. I believe that excellence in coding is achieved by meticulously crafting every aspect of a project for overall harmony. In the ever-evolving world of software engineering, I continually seek opportunities to expand my knowledge and skills to deliver top-notch solutions that make a meaningful impact.
 
 ## Technical Skills
