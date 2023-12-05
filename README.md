@@ -62,7 +62,7 @@ When I'm not coding, you can find me exploring the great outdoors, gaming, or st
 
 ## Education
 
-### CodeSpace Academy
+### [CodeSpace Academy](https://www.codespace.co.za)
 - **JavaScript Engineering**
   - 2023-2023
 
