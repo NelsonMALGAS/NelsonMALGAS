@@ -38,7 +38,7 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer. I love turning id
 
 **BOOK-CONNECT-PROJECT**
 - [Book Connect Repository](https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19)
-- Description: An interactive web application that connects book enthusiasts worldwide. Users can discover, discuss, and share their favorite books, complete with user authentication, book search, and content management features.
+- Description: An interactive web application that connects book enthusiasts worldwide. Users can discover, discuss, and share their favorite books, book search, and content management features.
 
 **INTRO TO WEB PROJECT**
 - [Intro to Web Repository](https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9)
