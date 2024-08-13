@@ -13,7 +13,7 @@
 
 ---
 ## About
-I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer. I love turning ideas into reality through code. Coding is my greatest passion, and I thrive on the creativity and innovation it offers. I believe that excellence in coding is achieved by meticulously crafting every aspect of a project for overall harmony. In the ever-evolving world of software engineering, I continually seek opportunities to expand my knowledge and skills to deliver top-notch solutions that make a meaningful impact.
+I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer and Code Coach at CodeSpace Academy. I thrive on turning ideas into reality through code, finding joy in the creativity and innovation it offers. Coding is not just my profession; it's my greatest passion. I believe excellence in coding is achieved by meticulously crafting every aspect of a project to ensure overall harmony. In the ever-evolving world of software engineering, I am dedicated to continuously expanding my knowledge and skills to deliver top-notch solutions that make a meaningful impact.
 
 ## Technical Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer. I love turning id
 
 
 
-🌱 I'm enthusiastic about exploring cutting-edge technologies like Next.js and Node.js to enhance my skills and create innovative solutions.
+🌱 I'm enthusiastic about exploring cutting-edge technologies/programming languages like ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) and ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)  to enhance my skills and create innovative solutions.
 
 ## Projects
 
