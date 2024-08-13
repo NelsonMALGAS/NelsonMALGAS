@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MalgasZakes1)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
+[![Work](https://img.shields.io/badge/-Work-green?style=flat-square&logo=gmail&logoColor=white)](mailto:nelson@codespace.co.za)
 </div>
 
 
@@ -80,10 +81,35 @@ When I'm not coding, you can find me exploring the great outdoors, gaming, liste
 ### Bafokeng High School
 - **Matric**
    - 2013
-
+  
+## Professional Experience
+- **Code Coach at CodeSpace Academy**
+  - June 18, 2024 - Present
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical" alt="Nelson's GitHub Stats" style="width: 100%; height: 100%;" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonMALGAS&layout=compact&theme=radical" alt="Nelson's Top Languages" style="width: 100%; height: 100%;" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonMALGAS&theme=radical" alt="Nelson's GitHub Streak" style="width: 100%; height: 100%;" />
+    </td>
+  </tr>
+</table>
+
 
 ## Contact
-💬 Thank you for taking the time to get to know me. I'm always open to new opportunities and collaborations, so please feel free to connect with me on GitHub or through my social media profiles.
+💬 Thanks for stopping by! I'm always up for a chat about tech, new opportunities, or just geeking out over the latest trends. Let's connect and make awesome things happen together!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MalgasZakes1)
+[![Personal Email](https://img.shields.io/badge/-Personal%20Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
+[![Work](https://img.shields.io/badge/-Work-green?style=flat-square&logo=gmail&logoColor=white)](mailto:nelson@codespace.co.za)
+
+📫 Whether you want to discuss code 💻, share cool project ideas 💡, or just say hi 👋, feel free to reach out via any of the channels above. Let's innovate and create together! 🚀
+
