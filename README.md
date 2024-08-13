@@ -60,9 +60,10 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer. I love turning id
 - [Events App](https://next-app-rose-three.vercel.app/)
 - Description: This is a simple Next.js application that displays a list of events. It allows users to view upcoming events, event details, and more. This README will provide you with instructions on how to set up and run the application.
 
-**Foodies Delight Recipe App**
+**Foodies Delight 🍔🍲 Recipe App**
 - [Foodies Delight Recipe App](https://next-app-rose-three.vercel.app/)
-- Description: This is a simple Next.js application that displays a list of events. It allows users to view upcoming events, event details, and more. This README will provide you with instructions on how to set up and run the application.
+- Foodies Delight is a web application built with React and Next.js, designed to cater to culinary enthusiasts who love exploring and sharing delicious recipes. Whether you're a seasoned chef or a home cook, 
+  Foodies Delight provides a platform to discover and contribute to a diverse collection of recipes.
 
 ## Interests
 When I'm not coding, you can find me exploring the great outdoors, gaming, or staying up-to-date with the latest tech trends and developments. I'm excited about the future of technology and the endless possibilities it holds.
