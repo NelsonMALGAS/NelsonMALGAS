@@ -1,7 +1,8 @@
 <div align="center">
 
 # Nelson Zongezile Malgas
-## Fullstack Software Engineer & Code Coach [@CodeSpace Academy]([https://codespace.academy](https://www.google.com/search?gs_ssp=eJwFwTEOQEAQBdBoJQo30KjNJrNiHcEl5O_8oRKEAqf3Xll1axcCv_vUWSjF2MoTaBaZhqii6kyjPD3E86KJiEBGnmrb6dcB8wYG-vb-GkkW4w&q=codespace+academy&rlz=1C1VDKB_enZA1120ZA1120&oq=codespace&gs_lcrp=EgZjaHJvbWUqDQgDEC4YrwEYxwEYgAQyBggAEEUYOTIHCAEQABiABDIPCAIQABgKGLEDGIAEGIoFMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEINzM3N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8))
+## Fullstack Software Engineer & Code Coach [@CodeSpace Academy](https://www.google.com/search?gs_ssp=eJwFwTEOQEAQBdBoJQo30KjNJrNiHcEl5O_8oRKEAqf3Xll1axcCv_vUWSjF2MoTaBaZhqii6kyjPD3E86KJiEBGnmrb6dcB8wYG-vb-GkkW4w&q=codespace+academy&rlz=1C1VDKB_enZA1120ZA1120&oq=codespace&gs_lcrp=EgZjaHJvbWUqDQgDEC4YrwEYxwEYgAQyBggAEEUYOTIHCAEQABiABDIPCAIQABgKGLEDGIAEGIoFMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEINzM3N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
