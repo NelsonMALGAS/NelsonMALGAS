@@ -66,6 +66,10 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer and Code Coach at 
 - Foodies Delight is a web application built with React and Next.js, designed to cater to culinary enthusiasts who love exploring and sharing delicious recipes. Whether you're a seasoned chef or a home cook, 
   Foodies Delight provides a platform to discover and contribute to a diverse collection of recipes.
 
+**Freelance Project (PWA)**
+- [D&N Tutor, Mentors Organisation](https://d-n-mentors.vercel.app/)
+- Kelebogile Doctor Modisane & Nelson Zongezile Malgas Tutor and Mentor Organization is a comprehensive educational service provider specializing in assisting students with their academic studies.
+
 ## Interests
 When I'm not coding, you can find me exploring the great outdoors, gaming, listening to or singing choral and opera music, or staying up-to-date with the latest tech trends and developments. I'm excited about the future of technology and the endless possibilities it holds.
 
