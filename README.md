@@ -107,9 +107,6 @@ When I'm not coding, you can find me exploring the great outdoors, gaming, liste
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonMALGAS&layout=compact&theme=radical" alt="Nelson's Top Languages" style="width: 100%; height: 100%;" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonMALGAS&theme=radical" alt="Nelson's GitHub Streak" style="width: 100%; height: 100%;" />
-    </td>
   </tr>
 </table>
 
