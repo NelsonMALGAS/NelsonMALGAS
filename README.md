@@ -33,6 +33,13 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer and Code Coach at 
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 ![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square&logo=framer)
+![React Icons](https://img.shields.io/badge/-React%20Icons-black?style=flat-square&logo=react)
+![React Router DOM](https://img.shields.io/badge/-React%20Router%20DOM-black?style=flat-square&logo=reactrouter)
+
+
+
 
 
 
