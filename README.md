@@ -57,11 +57,11 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer and Code Coach at 
 
 **PORFOLIO PROJECT (Next.js)**
 - [Portfolio](https://portfolio-blue-mu-82.vercel.app/) 
-- Description: "The Audio Lounge" is a dynamic React project for podcast enthusiasts. It offers audio playback, allowing users to explore a vast library of podcasts and curate their podcast collections.
+- Description:  This is a project which displays my portfolio
 
 **BLOG (NextJS)**
 - [Blog](https://my-blog-ten-sandy.vercel.app/)
-- Description: This is a project which displays my portfolio
+- Description: This is a project which displays my blog posts
 
 
 **NextJS EVENTS APP**
