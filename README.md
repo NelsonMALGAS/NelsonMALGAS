@@ -56,7 +56,7 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer and Code Coach at 
 - Description: A comprehensive web development project designed as an excellent learning resource for newcomers to web development. It covers HTML, CSS, JavaScript, and more, providing an immersive introduction to web development concepts.
 
 **PORFOLIO PROJECT (Next.js)**
-- [PORTFOLIO](https://portfolio-blue-mu-82.vercel.app/) 
+- [Portfolio](https://portfolio-blue-mu-82.vercel.app/) 
 - Description: "The Audio Lounge" is a dynamic React project for podcast enthusiasts. It offers audio playback, allowing users to explore a vast library of podcasts and curate their podcast collections.
 
 **BLOG (NextJS)**
