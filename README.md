@@ -55,13 +55,13 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer and Code Coach at 
 - [Intro to Web Repository](https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9)
 - Description: A comprehensive web development project designed as an excellent learning resource for newcomers to web development. It covers HTML, CSS, JavaScript, and more, providing an immersive introduction to web development concepts.
 
-**THE AUDIO LOUNGE (React Project)**
-- [The Audio Lounge App](https://the-audio-lounge.netlify.app)
+**PORFOLIO PROJECT (Next.js)**
+- [PORTFOLIO](https://portfolio-blue-mu-82.vercel.app/) 
 - Description: "The Audio Lounge" is a dynamic React project for podcast enthusiasts. It offers audio playback, allowing users to explore a vast library of podcasts and curate their podcast collections.
 
 **BLOG (NextJS)**
 - [Blog](https://my-blog-ten-sandy.vercel.app/)
-- Description: This is a simple web development blog created using React and Next.js. It features a homepage with a hero section and a list of featured blog posts. The blog is designed to showcase articles related to programming and web development.
+- Description: This is a project which displays my portfolio
 
 
 **NextJS EVENTS APP**
