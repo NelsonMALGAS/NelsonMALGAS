@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nelson Zongezile Malgas
-## Fullstack Software Engineer & Code Coach [@CodeSpace Academy](https://www.google.com/search?gs_ssp=eJwFwTEOQEAQBdBoJQo30KjNJrNiHcEl5O_8oRKEAqf3Xll1axcCv_vUWSjF2MoTaBaZhqii6kyjPD3E86KJiEBGnmrb6dcB8wYG-vb-GkkW4w&q=codespace+academy&rlz=1C1VDKB_enZA1120ZA1120&oq=codespace&gs_lcrp=EgZjaHJvbWUqDQgDEC4YrwEYxwEYgAQyBggAEEUYOTIHCAEQABiABDIPCAIQABgKGLEDGIAEGIoFMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEINzM3N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+## Fullstack Software Engineer 
 
 
 
@@ -95,7 +95,7 @@ When I'm not coding, you can find me exploring the great outdoors, gaming, liste
   
 ## Professional Experience
 - **Code Coach at CodeSpace Academy**
-  - June 18, 2024 - Present
+  - June 18, 2024 - 28 February 2025
 
 ## GitHub Stats
 
