@@ -4,7 +4,6 @@
 ## Fullstack Software Engineer 
 
 
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MalgasZakes1)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
