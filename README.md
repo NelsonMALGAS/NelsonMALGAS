@@ -37,6 +37,9 @@ I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer and Code Coach at 
 ![React Icons](https://img.shields.io/badge/-React%20Icons-black?style=flat-square&logo=react)
 ![React Router DOM](https://img.shields.io/badge/-React%20Router%20DOM-black?style=flat-square&logo=reactrouter)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-black?style=flat-square&logo=tailwindcss)
+![Neon DB](https://img.shields.io/badge/Neon%20DB-black?style=flat-square&logo=neon)
+
+
 
 
 
