@@ -99,7 +99,7 @@ When I'm not coding, you can find me exploring the great outdoors, gaming, liste
 - **Code Coach at CodeSpace Academy**
   - June 18, 2024 - 28 February 2025
 
-- **Fullstack Software Engineer**
+- **Fullstack Software Engineer at Synatic AI**
   - June 23, 2025 - Present
 
 ## GitHub Stats
