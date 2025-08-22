@@ -7,13 +7,15 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MalgasZakes1)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
-[![Work](https://img.shields.io/badge/-Work-green?style=flat-square&logo=gmail&logoColor=white)](mailto:nelson@codespace.co.za)
+[![Work](https://img.shields.io/badge/-Work-green?style=flat-square&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
 </div>
 
 
 ---
 ## About
-I'm Nelson Zongezile Malgas, a passionate JavaScript Engineer and Code Coach at CodeSpace Academy. I thrive on turning ideas into reality through code, finding joy in the creativity and innovation it offers. Coding is not just my profession; it's my greatest passion. I believe excellence in coding is achieved by meticulously crafting every aspect of a project to ensure overall harmony. In the ever-evolving world of software engineering, I am dedicated to continuously expanding my knowledge and skills to deliver top-notch solutions that make a meaningful impact.
+I’m Nelson Zongezile Malgas, a **FullStack JavaScript Engineer** passionate about building innovative, high-impact solutions. Coding is more than my profession—it’s my craft, where creativity meets problem-solving.
+
+Currently at *Synatic AI (USA)*, I work on advanced *3D modeling and AI-driven solutions*, pushing the boundaries of what’s possible with technology. I thrive on turning ideas into reality through clean, scalable code, and I’m dedicated to continuous learning in the ever-evolving software engineering space.
 
 ## Technical Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
