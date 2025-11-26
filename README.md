@@ -127,8 +127,27 @@ When I'm not coding, you can find me exploring the great outdoors, gaming, liste
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=NelsonMALGAS&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+  <!-- Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app?username=NelsonMALGAS&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" 
+    height="150" 
+    alt="trophy graph"
+  />
+  
+  <!-- Spacer -->
+  <br><br>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NelsonMALGAS/github-stats/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NelsonMALGAS/github-stats/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NelsonMALGAS/github-stats/output/pacman-contribution-graph.svg">
+</picture>
 </div>
+
+
+
 
 
 
