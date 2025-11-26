@@ -55,12 +55,13 @@ Currently at *Synatic AI (USA)*, I work on advanced *3D modeling and AI-driven s
 
 ## Projects
 
-**BOOK-CONNECT-PROJECT**
-- [Book Connect Repository](https://github.com/NelsonMALGAS/NELZON872_BCL2302_Owen_NelsonZongezileMalgas_IWA19)
-- Description: An interactive web application that connects book enthusiasts worldwide. Users can discover, discuss, and share their favorite books, book search, and content management features.
+**CHAT APP**
+- [Chat App](https://malgaschat.netlify.app/)
+- Description: A modern real-time chat application built with React, Vite, and Firebase.
+This app supports messaging, notifications via Firebase Cloud Messaging, and a responsive, user-friendly interface.
 
-**INTRO TO WEB PROJECT**
-- [Intro to Web Repository](https://github.com/NelsonMALGAS/NELZON872__BCL2302_Group_Owen_NelsonZongezileMalgas_ITW9)
+**PURIFIERS APP**
+- [Purifiers App](https://purifiers-app.vercel.app/)
 - Description: A comprehensive web development project designed as an excellent learning resource for newcomers to web development. It covers HTML, CSS, JavaScript, and more, providing an immersive introduction to web development concepts.
 
 **PORFOLIO PROJECT (Next.js)**
@@ -81,9 +82,6 @@ Currently at *Synatic AI (USA)*, I work on advanced *3D modeling and AI-driven s
 - Foodies Delight is a web application built with React and Next.js, designed to cater to culinary enthusiasts who love exploring and sharing delicious recipes. Whether you're a seasoned chef or a home cook, 
   Foodies Delight provides a platform to discover and contribute to a diverse collection of recipes.
 
-**Freelance Project (PWA)**
-- [D&N Tutor, Mentors Organisation](https://d-n-mentors.vercel.app/)
-- Kelebogile Doctor Modisane & Nelson Zongezile Malgas Tutor and Mentor Organization is a comprehensive educational service provider specializing in assisting students with their academic studies.
 
 ## Interests
 When I'm not coding, you can find me exploring the great outdoors, gaming, listening to or singing choral and opera music, or staying up-to-date with the latest tech trends and developments. I'm excited about the future of technology and the endless possibilities it holds.
