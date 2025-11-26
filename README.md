@@ -19,34 +19,51 @@ I’m Nelson Zongezile Malgas, a **FullStack JavaScript Engineer** passionate ab
 Currently at *Synatic AI (USA)*, I work on advanced *3D modeling and AI-driven solutions*, pushing the boundaries of what’s possible with technology. I thrive on turning ideas into reality through clean, scalable code, and I’m dedicated to continuous learning in the ever-evolving software engineering space.
 
 ## Technical Skills
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material-black?style=flat-square&logo=mui)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
-![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
-![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
-![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
-![Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square&logo=framer)
-![React Icons](https://img.shields.io/badge/-React%20Icons-black?style=flat-square&logo=react)
-![React Router DOM](https://img.shields.io/badge/-React%20Router%20DOM-black?style=flat-square&logo=reactrouter)
-![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-black?style=flat-square&logo=tailwindcss)
-![Neon DB](https://img.shields.io/badge/Neon%20DB-black?style=flat-square&logo=neon)
-
-
-
-
-
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mui" height="40" alt="Material UI" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer Motion" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React Icons" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=reactrouter" height="40" alt="React Router DOM" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Shadcn UI" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=neon" height="40" alt="Neon DB" />
+</div>
 
 
 
@@ -108,16 +125,14 @@ When I'm not coding, you can find me exploring the great outdoors, gaming, liste
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NelsonMALGAS&show_icons=true&theme=radical" alt="Nelson's GitHub Stats" style="width: 100%; height: 100%;" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonMALGAS&layout=compact&theme=radical" alt="Nelson's Top Languages" style="width: 100%; height: 100%;" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=NelsonMALGAS&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
+
+
 
 
 ## Contact
