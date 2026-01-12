@@ -4,11 +4,11 @@
 ## Fullstack Software Engineer 
 
 
-[![CV](https://flowcv.com/resume/vs2bqmcto5)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MalgasZakes1)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
-[![Work](https://img.shields.io/badge/-Work-green?style=flat-square&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
+[![CV](https://img.shields.io/badge/CV-View-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://flowcv.com/resume/vs2bqmcto5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MalgasZakes1)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
+[![Work](https://img.shields.io/badge/Work-Hire%20Me-green?style=for-the-badge&logo=googlechat&logoColor=white)](mailto:zmalgas69@gmail.com)
 </div>
 
 
