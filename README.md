@@ -1,166 +1,196 @@
 <div align="center">
 
 # Nelson Zongezile Malgas
-## Fullstack Software Engineer 
 
+### Fullstack Software Engineer
 
-[![CV](https://img.shields.io/badge/CV-View-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://flowcv.com/resume/vs2bqmcto5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MalgasZakes1)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
-[![Work](https://img.shields.io/badge/Work-Hire%20Me-green?style=for-the-badge&logo=googlechat&logoColor=white)](mailto:zmalgas69@gmail.com)
+*Building scalable systems, real-world products, and AI-driven experiences.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
+[![CV](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white)](https://flowcv.com/resume/vs2bqmcto5)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MalgasZakes1)
+
 </div>
-
 
 ---
+
 ## About
-I’m Nelson Zongezile Malgas, a **FullStack JavaScript Engineer** passionate about building innovative, high-impact solutions. Coding is more than my profession—it’s my craft, where creativity meets problem-solving.
 
-Currently at *Synatic AI (USA)*, I work on advanced *3D modeling and AI-driven solutions*, pushing the boundaries of what’s possible with technology. I thrive on turning ideas into reality through clean, scalable code, and I’m dedicated to continuous learning in the ever-evolving software engineering space.
+I'm a Fullstack Software Engineer with a strong focus on building production-grade SaaS products and scalable web systems. I work across the entire stack — from architecting data models and API layers to crafting performant, accessible frontends.
 
-## Technical Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mui" height="40" alt="Material UI" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer Motion" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React Icons" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=reactrouter" height="40" alt="React Router DOM" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Shadcn UI" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=neon" height="40" alt="Neon DB" />
+Worked at **Synatic AI (USA)**, I contributed to 3D modeling pipelines and AI-driven systems, worked at the intersection of complex data processing and modern web interfaces.
+
+My engineering approach prioritizes clean architecture, real-world impact, and systems that scale — not just code that works.
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" title="React" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="Next.js" title="Next.js" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript" title="TypeScript" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="36" alt="JavaScript" title="JavaScript" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML5" title="HTML5" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS3" title="CSS3" />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/framer" height="36" alt="Framer Motion" title="Framer Motion" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mui" height="36" alt="Material UI" title="Material UI" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap" title="Bootstrap" />
 </div>
 
+<br/>
 
+**Backend & APIs**
 
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" title="Node.js" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="Next.js API Routes" title="Next.js API Routes" />
+</div>
 
-🌱 I'm enthusiastic about exploring cutting-edge technologies/programming languages like ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) and ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)  to enhance my skills and create innovative solutions.
+<br/>
 
-## Projects
+**Databases & BaaS**
 
-**CHAT APP**
-- [Chat App](https://malgaschat.netlify.app/)
-- Description: A modern real-time chat application built with React, Vite, and Firebase.
-This app supports messaging, notifications via Firebase Cloud Messaging, and a responsive, user-friendly interface.
+<div>
+  <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase" title="Firebase" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" title="MongoDB" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="36" alt="Supabase" title="Supabase" />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/postgresql" height="36" alt="Neon DB" title="Neon DB" />
+</div>
 
-**PURIFIERS APP**
-- [Purifiers App](https://purifiers-app.vercel.app/)
-- Description: A comprehensive web development project designed as an excellent learning resource for newcomers to web development. It covers HTML, CSS, JavaScript, and more, providing an immersive introduction to web development concepts.
+<br/>
 
-**PORFOLIO PROJECT (Next.js)**
-- [Portfolio](https://portfolio-blue-mu-82.vercel.app/) 
-- Description:  This is a project which displays my portfolio
+**Tools & Platforms**
 
-**BLOG (NextJS)**
-- [Blog](https://my-blog-ten-sandy.vercel.app/)
-- Description: This is a project which displays my blog posts
+<div>
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" title="Git" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" title="GitHub" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vite" height="36" alt="Vite" title="Vite" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=npm" height="36" alt="NPM" title="NPM" />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/reactrouter" height="36" alt="React Router" title="React Router" />
+</div>
 
+<br/>
 
-**NextJS EVENTS APP**
-- [Events App](https://next-app-rose-three.vercel.app/)
-- Description: This is a simple Next.js application that displays a list of events. It allows users to view upcoming events, event details, and more. This README will provide you with instructions on how to set up and run the application.
+**Payments & Integrations**
 
-**Foodies Delight 🍔🍲 Recipe App**
-- [Foodies Delight Recipe App](https://foodiesdelight.vercel.app/)
-- Foodies Delight is a web application built with React and Next.js, designed to cater to culinary enthusiasts who love exploring and sharing delicious recipes. Whether you're a seasoned chef or a home cook, 
-  Foodies Delight provides a platform to discover and contribute to a diverse collection of recipes.
+| Integration | Proficiency |
+|---|---|
+| Stripe | Full integration · Subscription billing · Webhook handling |
+| Paystack | Full integration · Recurring payments · Webhook handling |
+| LiveKit | Real-time audio/video systems |
+| Google Maps API | Location-based features |
+| EmailJS | Transactional email integration |
 
+---
 
-## Interests
-When I'm not coding, you can find me exploring the great outdoors, gaming, listening to or singing choral and opera music, or staying up-to-date with the latest tech trends and developments. I'm excited about the future of technology and the endless possibilities it holds.
+## Core Competencies
 
-## Education
+| Area | Detail |
+|---|---|
+| **SaaS Architecture** | Multi-tenant systems, subscription models, role-based access |
+| **Real-time Systems** | Live data sync, WebSocket integration, LiveKit audio/video |
+| **Payment Engineering** | End-to-end billing flows, webhook reliability, failure recovery |
+| **Performance Optimization** | Code splitting, memoization, query optimization, lazy loading |
+| **System Design** | Scalable data modeling, API design, serverless architecture |
+| **State Management** | Zustand, React Context, server state with caching strategies |
 
-### [CodeSpace Academy](https://www.codespace.co.za)
-- **JavaScript Engineering**
-  - 2023-2023
+---
 
-- **Programming Fundamentals**
-  - 2022-2022
+## Featured Projects
 
-### Bafokeng High School
-- **Matric**
-   - 2013
-  
-## Professional Experience
-- **Code Coach at CodeSpace Academy**
-  - June 18, 2024 - 28 February 2025
+### [ExperienceIQ](https://experienceiqplatform.com)
+A production SaaS platform for experience management. Built with Next.js, Firebase, and Paystack — featuring multi-property management, role-based access, real-time issue tracking, staff rostering, and subscription billing with full webhook integration. Designed and engineered end-to-end.
 
-- **Fullstack Software Engineer at Synatic AI**
-  - June 23, 2025 - Present
+---
+
+### [Eloh Doc App](https://elohdocapp.vercel.app/)
+*Contributor — not owner*
+
+A production-grade healthcare platform serving five distinct user roles: Doctors, Nurses, Patients, Ambulance Drivers, and Customers. Built with Next.js, Firebase, LiveKit, and Stripe — the platform handles virtual consultations, medical record management, real-time ambulance tracking, and secure payment processing entirely in the browser.
+
+Key technical contributions span role-based access control via Firebase Auth and Admin SDK, LiveKit video room integration with server-side token generation, Stripe Checkout with Firestore payment tracking, and real-time location and transport request management via Google Maps API.
+
+---
+
+### [Chat App](https://malgaschat.netlify.app/)
+Real-time messaging application built with React, Vite, and Firebase. Features include live messaging, Firebase Cloud Messaging push notifications, and a fully responsive UI optimized for performance across devices.
+
+---
+
+### [Foodies Delight](https://foodiesdelight.vercel.app/)
+Recipe discovery and sharing platform built with React and Next.js. Focuses on clean UX, fast data fetching patterns, and a scalable content structure suitable for community-driven content.
+
+---
+
+### [Portfolio](https://portfolio-blue-mu-82.vercel.app/)
+Personal portfolio built with Next.js — showcasing projects, experience, and technical depth with a focus on performance and clean design.
+
+---
+
+## Experience
+
+**Fullstack Software Engineer — Synatic AI (USA)**
+`June 2025 – December 2025`
+Worked on 3D modeling pipelines and AI-driven web systems. Built and maintained complex data processing workflows integrated with modern frontend interfaces.
+
+---
+
+**Code Coach — CodeSpace Academy**
+`June 2024 – February 2025`
+Mentored junior developers through JavaScript engineering fundamentals, code reviews, project feedback, and structured learning paths. Helped students bridge the gap between theory and production-ready code.
+
+---
 
 ## GitHub Stats
 
-
 <div align="center">
 
-  <!-- Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app?username=NelsonMALGAS&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" 
-    height="150" 
-    alt="trophy graph"
-  />
-  
-  <!-- Spacer -->
-  <br><br>
+<img
+  src="https://github-profile-trophy.vercel.app?username=NelsonMALGAS&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
+  height="140"
+  alt="GitHub Trophies"
+/>
 
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NelsonMALGAS/github-stats/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NelsonMALGAS/github-stats/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NelsonMALGAS/github-stats/output/pacman-contribution-graph.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/NelsonMALGAS/github-stats/output/pacman-contribution-graph.svg">
 </picture>
+
 </div>
 
-
-
-
-
-
-
-
+---
 
 ## Contact
-💬 Thanks for stopping by! I'm always up for a chat about tech, new opportunities, or just geeking out over the latest trends. Let's connect and make awesome things happen together!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MalgasZakes1)
-[![Personal Email](https://img.shields.io/badge/-Personal%20Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
-[![Work](https://img.shields.io/badge/-Work-green?style=flat-square&logo=gmail&logoColor=white)](mailto:nelson@codespace.co.za)
+I'm open to senior engineering roles, technical collaborations, and impactful product opportunities.
 
-📫 Whether you want to discuss code 💻, share cool project ideas 💡, or just say hi 👋, feel free to reach out via any of the channels above. Let's innovate and create together! 🚀
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-zongezile-malgas-58b194b2/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zmalgas69@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/MalgasZakes1)
