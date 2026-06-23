@@ -294,7 +294,9 @@ I don't just write code — I engineer solutions.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NelsonMALGAS&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<div align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=NelsonMALGAS&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</div>
 
 </div>
 
