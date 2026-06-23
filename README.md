@@ -317,9 +317,9 @@ I don't just write code — I engineer solutions.
 
 <!-- Pacman -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NelsonMALGAS/NelsonMALGAS/snake-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NelsonMALGAS/NelsonMALGAS/snake-output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/NelsonMALGAS/NelsonMALGAS/snake-output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NelsonMALGAS/NelsonMALGAS/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NelsonMALGAS/NelsonMALGAS/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/NelsonMALGAS/NelsonMALGAS/pacman-output/pacman-contribution-graph.svg" />
 </picture>
 
 </div>
